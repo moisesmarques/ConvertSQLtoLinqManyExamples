@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsOLi/tvcfs5Hr0VYvq14sGSvrMwclMPGkZ7vi17e7J4O1eGkrsv1rc6sHQokdJMxIVFVbpecx4qgy7lRroDiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moises\\source\\repos\\ConvertSQLtoLinqManyExamples\\ConvertSQLQueryToLinqManyExamples\\ConvertSQLQueryToLinqManyExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moises\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
